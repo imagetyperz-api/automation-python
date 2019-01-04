@@ -7,7 +7,7 @@ Setup
 -----
 
 1. Make sure you have Chrome installed
-2. Install requests with `pip2 install requests`
+2. Install requests with `pip2 install requests selenium lxml`
 3. Edit `example.py` and set the `IMAGETYPERS_TOKEN`
 
 Usage
